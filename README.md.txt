@@ -36,9 +36,8 @@ A desktop application developed in Java using NetBeans to help athletes log dail
 - Update DB credentials in the source if needed (`username`, `password`, `db name`)
 
 ### ▶️ Run the App
-
-1. Clone this repository or download it as ZIP
-2. Navigate to the folder
-3. Run the app using:
+1. [Download ZIP](https://github.com/SubavarshiniJothirajan/nutrition-app-athletes/releases)
+2. Extract it
+3. Run with:
    ```bash
    java -jar NutritionApp.jar
